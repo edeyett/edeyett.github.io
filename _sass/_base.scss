@@ -1,0 +1,99 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: $font-body;
+  color: $blackberry-rust;
+  background: $petri-white;
+  line-height: 1.7;
+}
+
+a {
+  color: $emerald-teal;
+  text-decoration: none;
+  transition: color $transition;
+}
+
+a:hover {
+  color: $crimson-mycelium;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-heading;
+  color: $blackberry-rust;
+  line-height: 1.2;
+  margin-top: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+p {
+  margin-bottom: 1.2rem;
+}
+
+.section {
+  padding: 4rem 1rem;
+}
+
+.container {
+  max-width: $max-width;
+  margin: 0 auto;
+}
+
+.container.narrow {
+  max-width: 720px;
+}
+
+.lede {
+  font-size: 1.25rem;
+  color: $blackberry-rust;
+}
+
+.case-tag {
+  font-size: 0.85rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: $mycelial-mist;
+  margin-bottom: 0.5rem;
+}
+
+.case-meta {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  background: #fff;
+  border: 1px solid rgba(29, 109, 110, 0.15);
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.case-meta dt {
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: $mycelial-mist;
+  margin-bottom: 0.25rem;
+}
+
+.case-meta dd {
+  margin: 0;
+  font-weight: 600;
+}
+
+blockquote {
+  border-left: 4px solid $fungal-gold;
+  padding-left: 1rem;
+  font-style: italic;
+  color: $blackberry-rust;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid rgba(0,0,0,0.1);
+  margin: 2rem 0;
+}

@@ -1,6 +1,13 @@
-# Case Study 2: Building Data Systems & Governance for Scalable Microbial R&D
-
-*Aligning scientific integrity, data strategy, and organizational culture before scale*
+---
+title: "Building Data Systems & Governance for Scalable Microbial R&D"
+tagline: "Aligning scientific integrity, data strategy, and organizational culture before scale"
+context: "VC-backed biotech seeking cross-functional data maturity"
+services:
+  - "Data Strategy, Governance & Leadership"
+  - "Data, Bioinformatics & Analysis"
+summary: "Led company-wide data governance, literacy, and infrastructure buildout so teams could trust, share, and operationalize biological data before scaling."
+permalink: /case-studies/data-systems-governance-microbial-rd/
+---
 
 ---
 
@@ -126,4 +133,3 @@ For organizations at this stage, the takeaway is often simple:
 > *We don’t need a full team yet — we need someone who can design the system, align the people, and protect integrity while we grow.*
 
 This work now directly informs **MicroMosaic’s Data Strategy, Governance & Leadership pillar**, supporting organizations that want to build data systems that are not only scalable and efficient, but scientifically honest, human‑centered, and aligned with their mission.
-

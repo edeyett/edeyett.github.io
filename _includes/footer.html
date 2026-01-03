@@ -1,0 +1,22 @@
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div>
+      <p class="footer-title">MicroMosaic</p>
+      <p>Science studio for bioinformatics, data strategy, and science communication.</p>
+    </div>
+    <div class="footer-contact">
+      <p><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+      <p><strong>Based in:</strong> Remote / Pacific Time</p>
+    </div>
+  </div>
+  <p class="copyright">© {{ site.time | date: '%Y' }} MicroMosaic. All rights reserved.</p>
+</footer>
+<script>
+  const navToggle = document.querySelector('.nav-toggle');
+  const navList = document.querySelector('.site-nav ul');
+  if (navToggle && navList) {
+    navToggle.addEventListener('click', () => {
+      navList.classList.toggle('open');
+    });
+  }
+</script>

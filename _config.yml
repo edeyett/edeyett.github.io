@@ -1,0 +1,32 @@
+title: MicroMosaic
+email: hello@micromosaic.studio
+description: >-
+  MicroMosaic helps organizations turn complex biological data into clear insight,
+  credible decisions, and compelling narratives rooted in rigorous microbiology,
+  data strategy, and science communication.
+baseurl: ""
+url: ""
+permalink: pretty
+collections:
+  case_studies:
+    output: true
+    permalink: /case-studies/:title/
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: case_studies
+    values:
+      layout: case_study
+  - scope:
+      path: ""
+    values:
+      layout: page
+sass:
+  style: expanded
+  sass_dir: _sass
+plugins: []

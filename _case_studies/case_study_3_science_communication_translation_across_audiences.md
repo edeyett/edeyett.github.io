@@ -1,6 +1,12 @@
-# Case Study 3: Science Communication & Translation Across Audiences
-
-*Creative science communication rooted in rigor, culture, metaphor, and deep curiosity*
+---
+title: "Science Communication & Translation Across Audiences"
+tagline: "Creative science communication rooted in rigor, culture, metaphor, and deep curiosity"
+context: "Integrated science storytelling practice across public, professional, and institutional formats"
+services:
+  - "Science Communication & Translation"
+summary: "Built multi-format scicomm ecosystem—from podcasts to editorial roles—that keeps rigor intact while connecting microbiology to diverse audiences."
+permalink: /case-studies/science-communication-translation-across-audiences/
+---
 
 ---
 
@@ -145,4 +151,3 @@ The boundary is clear:
 > *This is not hype‑driven science communication.*
 
 It is thoughtful, creative, research‑anchored work designed to help science travel — intact, honest, and alive — across audiences.
-

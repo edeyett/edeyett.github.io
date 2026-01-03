@@ -1,4 +1,13 @@
-# Case Study 1: Building Scalable Microbial Genome Analysis Infrastructure
+---
+title: "Building Scalable Microbial Genome Analysis Infrastructure"
+tagline: "Achieving ~90% reduction in genome analysis time through cloud-native, end-to-end bioinformatics architecture"
+context: "Environmental biotech building a microbe-first R&D and biobanking program"
+services:
+  - "Data, Bioinformatics & Analysis"
+  - "Data Strategy, Governance & Leadership"
+summary: "Designed four production-grade Nextflow pipelines on AWS to automate bacterial and fungal analysis, connect genomic outputs to biobanks, and cut turnaround from days to hours."
+permalink: /case-studies/microbial-genome-analysis-infrastructure/
+---
 
 *Achieving ~90% reduction in genome analysis time through cloud‑native, end‑to‑end bioinformatics architecture*
 

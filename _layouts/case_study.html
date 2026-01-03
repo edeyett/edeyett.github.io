@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<section class="section">
+  <div class="container narrow">
+    <p class="case-tag">Case Study</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.tagline %}<p class="lede">{{ page.tagline }}</p>{% endif %}
+    {% if page.context or page.services %}
+    <dl class="case-meta">
+      {% if page.context %}
+      <div>
+        <dt>Context</dt>
+        <dd>{{ page.context }}</dd>
+      </div>
+      {% endif %}
+      {% if page.services %}
+      <div>
+        <dt>Pillars</dt>
+        <dd>{{ page.services | join: ', ' }}</dd>
+      </div>
+      {% endif %}
+    </dl>
+    {% endif %}
+    {{ content }}
+    <a class="cta" href="{{ '/contact/' | relative_url }}">Start a conversation</a>
+  </div>
+</section>
