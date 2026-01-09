@@ -131,6 +131,9 @@ permalink: /
   <div class="container contact-panel">
     <h2>Ready to co-design data, infrastructure, and story?</h2>
     <p>Bring your questions, constraints, and context. I’ll bring rigorous science, clear strategy, and communication that travels.</p>
-    <a class="cta" href="{{ '/contact/' | relative_url }}">Talk through your project</a>
+    <div class="cta-row">
+      <a class="cta" href="{{ '/contact/' | relative_url }}">Talk through your project</a>
+      <a class="cta secondary" href="https://calendly.com/edeyett-proton/30min">Schedule a meeting</a>
+    </div>
   </div>
 </section>
