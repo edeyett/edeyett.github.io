@@ -26,8 +26,10 @@ permalink: /
     <h2>About the practice</h2>
     <div class="about-highlight golden" style="display:grid;grid-template-columns:minmax(280px,1.3fr) minmax(200px,0.7fr);gap:1.5rem;align-items:center;">
       <div>
-        <p>I’m a microbial ecologist with a PhD in Genetics, Genomics &amp; Bioinformatics, rooted in environmental microbiology. Field work trained me to pay attention to ecosystems as living systems, not just sample sites. Graduate research gave me the tools to read genomes with precision. Collaboration taught me how to listen across perspectives and motivations. Industry work taught me how quickly good science gets undermined when analysis, data systems, and communication drift into separate lanes.</p>
-        <p>MicroMosaic is the studio where those lanes stay connected—offered as focused services in microbial bioinformatics, data strategy and management, and science communication. This intersection is where I’m most alive: microbes, computation, and story, all in service of work that’s rigorous, legible, and actually useful.</p>
+        <p>I’m a microbial ecologist with a PhD in Genetics, Genomics & Bioinformatics, rooted in environmental microbiology. Field work taught me to see ecosystems as living systems, not just sample sites. Graduate research trained me to read genomes with precision. Collaboration taught me how to listen across disciplines, incentives, and ways of thinking.</p>
+        <p>Industry work made something else clear: good science doesn’t fail because of lack of effort or expertise. It fails when analysis, data systems, culture, and communication drift into separate lanes — eroding biological meaning, trust, and ultimately, decision-making.</p>
+        <p>The practice unites microbial bioinformatics, data strategy and governance, and science communication — including writing, editorial work, and talks that help organizations think together — so scientific work remains rigorous, durable, and meaningful as it moves from data to decision.</p>
+        <p>This is where I work best: at the intersection of microbes, computation, and human systems — helping science scale without losing integrity, meaning, or the people doing the work.</p>
       </div>
       <div style="display:flex;justify-content:flex-end;align-items:center;">
         <img src="{{ '/branding/portraits/3.png' | relative_url }}" alt="Elizabeth portrait" style="max-width:260px;">
@@ -62,6 +64,7 @@ permalink: /
           <li>NGOs translating science for funders and communities</li>
           <li>Mission-driven startups building with microbial systems</li>
           <li>Journals, conferences, and science communication partners</li>
+          <li>Graduate students, postdocs, and scientific communities</li>
         </ul>
       </article>
     </div>
@@ -77,7 +80,7 @@ permalink: /
         <ul>
           <li>Genome, metagenome, amplicon, and RNA-seq pipelines</li>
           <li>Comparative genomics and phylogenetics</li>
-          <li>Interpretation sessions + visualization libraries</li>
+          <li>Interpretation sessions + visualization libraries + dashboards</li>
           <li>Exploratory vs production-grade pipeline design</li>
           <li>QC strategy, metadata support, and handoff docs</li>
         </ul>

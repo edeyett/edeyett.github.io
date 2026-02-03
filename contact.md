@@ -6,7 +6,7 @@ permalink: /contact/
 ---
 ## Start a conversation
 
-Email is the fastest way to reach MicroMosaic. Share context, constraints, and timelines—you don’t need a perfect scope to start.
+Email is the fastest way to reach me. Share context, constraints, and timelines—you don’t need a perfect scope to start.
 
 Prefer a quick intro call? Book a 30-minute slot to connect.
 
