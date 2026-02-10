@@ -7,16 +7,18 @@ permalink: /
   <div class="container hero-center">
     <img class="hero-logo-large" src="{{ '/branding/logo.png' | relative_url }}" alt="MicroMosaic logo">
     <h2>Elizabeth Deyett, PhD</h2>
-    <p class="hero-subline"><strong>Systems · Strategy · Stories</strong></p>
-    <p class="hero-pitch"><strong>From microbial bioinformatics to data strategy to science communication, MicroMosaic supports organizations with focused, independent expertise—grounded in rigor, clarity, and scientific integrity.</strong></p>
-    <div>
+    <p class="hero-subline"><strong>Sensemaking · Stewardship · Strategy · Story</strong></p>
+    <p class="hero-pitch">MicroMosaic brings microbial bioinformatics, data strategy, science communication, and speaking into one practice—so complex biology becomes decision-ready insight without losing meaning or integrity. I partner with teams and audiences through advisory work, editorial translation, and talks/workshops on data culture, AI framing, collaboration, and scientific careers.</p>
+    <div class="hero-badges">
       <span class="badge">Microbial bioinformatics</span>
-      <span class="badge">Data strategy &amp; management</span>
+      <span class="badge">Data strategy &amp; governance</span>
       <span class="badge">Science communication</span>
+      <span class="badge">Speaking &amp; workshops</span>
     </div>
-    <div class="cta-row">
+    <div class="cta-row hero-cta-row">
       <a class="cta" href="https://calendly.com/edeyett-proton/30min">Start a conversation</a>
       <a class="cta secondary" href="{{ '/case-studies/' | relative_url }}">See case studies</a>
+      <a class="cta secondary" href="{{ '/speaking/' | relative_url }}">Explore talks &amp; workshops</a>
     </div>
   </div>
 </section>

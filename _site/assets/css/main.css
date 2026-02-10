@@ -222,7 +222,7 @@ hr {
 }
 
 .hero-center {
-  max-width: 640px;
+  max-width: 900px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
@@ -259,6 +259,22 @@ hr {
 .hero-subline {
   letter-spacing: 0.08em;
   text-transform: uppercase;
+}
+
+.hero-badges {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  flex-wrap: nowrap;
+  width: 100%;
+  overflow-x: auto;
+}
+
+.hero-cta-row {
+  flex-wrap: nowrap;
+  width: 100%;
+  overflow-x: auto;
 }
 
 .menu-kicker {
