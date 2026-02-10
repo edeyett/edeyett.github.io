@@ -1,9 +1,18 @@
 ---
 layout: page
-title: Services
-lede: "Capabilities designed to hold analysis, strategy, and communication together."
+title: MicroMosaic Consulting & Collaboration Services
+lede: "For Scientific work that resists performance and rewards integrity."
+body_class: services-page
 permalink: /services/
 ---
+<div class="menu-preview">
+  <iframe src="{{ '/assets/downloads/MicroMosaic_consulting_menu.pdf' | relative_url }}" title="MicroMosaic consulting menu (PDF)" loading="lazy"></iframe>
+</div>
+
+<div class="cta-row" style="justify-content:center; margin:0.75rem 0 2rem;">
+  <a class="cta" href="{{ '/assets/downloads/MicroMosaic_consulting_menu.pdf' | relative_url }}" download>Download the consulting menu (PDF)</a>
+</div>
+
 MicroMosaic is not a multi-vendor relay. It’s one scientist carrying an integrated practice so you don’t have to keep re-explaining the science. Choose a single pillar, mix them, or engage fractionally—the collaboration stays rigorous either way.
 
 ## Data, Bioinformatics & Analysis
