@@ -67,4 +67,12 @@ Healthy data ecosystems need shared ownership. MicroMosaic builds the systems, g
 - **Time-Bound Consulting:** Sprint-style advisory support through transitions.
 - **Fractional Partnerships:** Embedded collaboration for ongoing oversight, interpretation, or leadership.
 
+## Selected work
+
+Writing, audio, and workshops that reflect the same approach—rigor, clarity, and good judgment.
+
+<div class="cta-row" style="justify-content:flex-start; margin-top:1rem;">
+  <a class="cta" href="{{ '/selected-works/' | relative_url }}">Browse selected work</a>
+</div>
+
 Not sure where to start? [Talk through your project]({{ '/contact/' | relative_url }}) and we can co-design the right level of support.

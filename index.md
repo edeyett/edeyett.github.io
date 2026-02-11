@@ -19,6 +19,22 @@ permalink: /
       <a class="cta" href="https://calendly.com/edeyett-proton/30min">Start a conversation</a>
       <a class="cta secondary" href="{{ '/case-studies/' | relative_url }}">See case studies</a>
       <a class="cta secondary" href="{{ '/speaking/' | relative_url }}">Explore talks &amp; workshops</a>
+      <a class="cta secondary" href="{{ '/selected-works/' | relative_url }}">Selected work</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2>Selected work</h2>
+    <p class="lede">A few public samples across writing, audio, and workshops.</p>
+    <ul>
+      <li>Writing: <a href="https://micro-bites.org/2021/07/05/can-we-train-computers-to-predict-bacterial-functions-in-plants/" target="_blank" rel="noopener noreferrer">https://micro-bites.org/2021/07/05/can-we-train-computers-to-predict-bacterial-functions-in-plants/</a></li>
+      <li>Audio: <a href="https://microgreens.buzzsprout.com/" target="_blank" rel="noopener noreferrer">https://microgreens.buzzsprout.com/</a></li>
+      <li>Workshop: <a href="https://www.youtube.com/watch?v=Jodfoa1mim4" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=Jodfoa1mim4</a></li>
+    </ul>
+    <div class="cta-row" style="margin-top:1rem;">
+      <a class="cta" href="{{ '/selected-works/' | relative_url }}">View all selected work</a>
     </div>
   </div>
 </section>

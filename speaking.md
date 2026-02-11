@@ -15,6 +15,16 @@ I give talks and run workshops for audiences ranging from graduate programs and 
   <span class="badge">Scientific culture</span>
 </div>
 
+## Selected work
+
+- Workshop (YouTube): <a href="https://www.youtube.com/watch?v=Jodfoa1mim4" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=Jodfoa1mim4</a>
+- ISME interview: <a href="https://isme-microbes.org/july-2024-edition-16-team-lead-of-bioinformatics-and-data-science/" target="_blank" rel="noopener noreferrer">https://isme-microbes.org/july-2024-edition-16-team-lead-of-bioinformatics-and-data-science/</a>
+- Audio sample: <a href="https://microgreens.buzzsprout.com/" target="_blank" rel="noopener noreferrer">https://microgreens.buzzsprout.com/</a>
+
+<div class="cta-row" style="justify-content:flex-start; margin-top:1rem;">
+  <a class="cta" href="{{ '/selected-works/' | relative_url }}">Full list</a>
+</div>
+
 ## Formats
 
 <div class="about-highlight golden align-left">
