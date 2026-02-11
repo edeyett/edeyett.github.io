@@ -15,6 +15,14 @@ I give talks and run workshops for audiences ranging from graduate programs and 
   <span class="badge">Scientific culture</span>
 </div>
 
+<div class="menu-preview">
+  <iframe src="{{ '/assets/downloads/MicroMosaic_Speaker_Menu.pdf' | relative_url }}" title="MicroMosaic speaker menu (PDF)" loading="lazy"></iframe>
+</div>
+
+<div class="cta-row" style="justify-content:center; margin:0.75rem 0 2rem;">
+  <a class="cta" href="{{ '/assets/downloads/MicroMosaic_Speaker_Menu.pdf' | relative_url }}" download>Download the speaker menu (PDF)</a>
+</div>
+
 ## Selected work
 
 - Workshop (YouTube): <a href="https://www.youtube.com/watch?v=Jodfoa1mim4" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=Jodfoa1mim4</a>

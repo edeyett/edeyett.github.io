@@ -149,6 +149,17 @@ permalink: /
 </section>
 
 <section class="section">
+  <div class="container menu-preview-grid">
+    <div class="menu-preview">
+      <iframe src="{{ '/assets/downloads/MicroMosaic_Consulting_Menu.pdf' | relative_url }}" title="MicroMosaic consulting menu (PDF)" loading="lazy"></iframe>
+    </div>
+    <div class="menu-preview">
+      <iframe src="{{ '/assets/downloads/MicroMosaic_Speaker_Menu.pdf' | relative_url }}" title="MicroMosaic speaker menu (PDF)" loading="lazy"></iframe>
+    </div>
+  </div>
+</section>
+
+<section class="section">
   <div class="container contact-panel">
     <h2>Ready to co-design data, infrastructure, and story?</h2>
     <p>Bring your questions, constraints, and context. I’ll bring rigorous science, clear strategy, and communication that travels.</p>
